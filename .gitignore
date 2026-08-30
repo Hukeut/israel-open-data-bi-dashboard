@@ -1,0 +1,11 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Never commit full raw source files — see data/README.md for download links
+data/full/
+*.tmp.csv
