@@ -56,18 +56,18 @@ The `/model` folder ships these exact outputs as CSVs, so anyone cloning this re
 Three report pages, with synced date-range and station slicers so filtering on one page filters the others too.
 
 **1. Overview** — KPI summary and the monthly trend across the full sample (8 Tel Aviv–Yafo stations, 2023).
-
+![Overview](screenshot/Overview.png)
 - **Total Validations:** 6M across the sample period
 - **MoM % Change:** 6.63%
 - **Peak Share %:** 58.74% of validations happen during peak time bands
 - Monthly trend line shows two dips (April, October) and a sustained peak from May through August
 
 **2. Stations** — ranked comparison of the 8 sample stations, plus a geographic map (latitude/longitude) sized by validation volume.
-
+![Overview](screenshot/Stations.png)
 All 8 stations cluster around central Tel Aviv–Yafo / Ramat Gan, consistent with the sample scope above.
 
 **3. Time patterns** — split of validations by time band (donut) and by day of week (column chart, sorted Sunday → Saturday to match the Israeli work week).
-
+![Overview](screenshot/Time\ patterns.png)
 - The **15:00–18:59 evening peak** band alone accounts for **46.47%** of all validations — the dominant commute pattern in this dataset
 - Weekday volumes (Sunday–Thursday) are consistently higher than Friday/Saturday, reflecting Israel's Friday–Saturday weekend
 
