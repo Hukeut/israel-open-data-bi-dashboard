@@ -63,11 +63,11 @@ Three report pages, with synced date-range and station slicers so filtering on o
 - Monthly trend line shows two dips (April, October) and a sustained peak from May through August
 
 **2. Stations** — ranked comparison of the 8 sample stations, plus a geographic map (latitude/longitude) sized by validation volume.
-![Overview](screenshot/stations.png)
+![Overview](screenshot\Stations.png)
 All 8 stations cluster around central Tel Aviv–Yafo / Ramat Gan, consistent with the sample scope above.
 
 **3. Time patterns** — split of validations by time band (donut) and by day of week (column chart, sorted Sunday → Saturday to match the Israeli work week).
-![Overview](screenshot/Time\ patterns.png)
+![Overview](screenshot\Time patterns.png)
 - The **15:00–18:59 evening peak** band alone accounts for **46.47%** of all validations — the dominant commute pattern in this dataset
 - Weekday volumes (Sunday–Thursday) are consistently higher than Friday/Saturday, reflecting Israel's Friday–Saturday weekend
 
