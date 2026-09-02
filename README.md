@@ -56,7 +56,7 @@ The `/model` folder ships these exact outputs as CSVs, so anyone cloning this re
 Three report pages, with synced date-range and station slicers so filtering on one page filters the others too.
 
 **1. Overview** — KPI summary and the monthly trend across the full sample (8 Tel Aviv–Yafo stations, 2023).
-
+![Descriptive alt text](screenshot\Overview.png)
 - **Total Validations:** 6M across the sample period
 - **MoM % Change:** 6.63%
 - **Peak Share %:** 58.74% of validations happen during peak time bands
