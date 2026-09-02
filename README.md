@@ -57,8 +57,6 @@ Three report pages, with synced date-range and station slicers so filtering on o
 
 **1. Overview** — KPI summary and the monthly trend across the full sample (8 Tel Aviv–Yafo stations, 2023).
 
-![Overview page](docs/overview.png)
-
 - **Total Validations:** 6M across the sample period
 - **MoM % Change:** 6.63%
 - **Peak Share %:** 58.74% of validations happen during peak time bands
@@ -66,13 +64,9 @@ Three report pages, with synced date-range and station slicers so filtering on o
 
 **2. Stations** — ranked comparison of the 8 sample stations, plus a geographic map (latitude/longitude) sized by validation volume.
 
-![Stations page](docs/stations.png)
-
 All 8 stations cluster around central Tel Aviv–Yafo / Ramat Gan, consistent with the sample scope above.
 
 **3. Time patterns** — split of validations by time band (donut) and by day of week (column chart, sorted Sunday → Saturday to match the Israeli work week).
-
-![Time patterns page](docs/time_patterns.png)
 
 - The **15:00–18:59 evening peak** band alone accounts for **46.47%** of all validations — the dominant commute pattern in this dataset
 - Weekday volumes (Sunday–Thursday) are consistently higher than Friday/Saturday, reflecting Israel's Friday–Saturday weekend
@@ -150,7 +144,6 @@ To keep this portfolio project real but manageable, the sample and the initial d
 
 **1. סקירה כללית** — סיכום מדדי KPI ומגמה חודשית לאורך כל תקופת המדגם (8 תחנות בתל אביב-יפו, 2023).
 
-![עמוד סקירה כללית](docs/overview.png)
 
 - **סה"כ תיקופים:** 6M לאורך תקופת המדגם
 - **שינוי חודשי (MoM):** 6.63%
@@ -159,13 +152,11 @@ To keep this portfolio project real but manageable, the sample and the initial d
 
 **2. תחנות** — השוואה מדורגת בין 8 תחנות המדגם, לצד מפה גיאוגרפית (קו רוחב/אורך) בגודל יחסי לנפח התיקופים.
 
-![עמוד תחנות](docs/stations.png)
 
 כל 8 התחנות מרוכזות סביב מרכז תל אביב-יפו / רמת גן, בהתאם להיקף המדגם שתואר למעלה.
 
 **3. דפוסי זמן** — פילוח תיקופים לפי רצועת שעות (דונאט) ולפי יום בשבוע (תרשים עמודות, ממוין ראשון-שבת בהתאם לשבוע העבודה הישראלי).
 
-![עמוד דפוסי זמן](docs/time_patterns.png)
 
 - רצועת **שיא הערב (15:00-18:59)** לבדה מהווה **46.47%** מכלל התיקופים — דפוס הנסיעה הדומיננטי במאגר זה
 - נפחי ימי החול (ראשון-חמישי) גבוהים באופן עקבי מיום שישי/שבת, בהתאם לסוף השבוע הישראלי (שישי-שבת)
